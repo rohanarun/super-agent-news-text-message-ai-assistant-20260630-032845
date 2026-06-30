@@ -1,0 +1,71 @@
+{
+  "citations": [
+    {
+      "source": "theaijournal.com",
+      "title": "TXTDrop Announces Launch of SMS Based AI Assistant",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS1VdzhmZDVVTnNaUFotYVRhUmtIOUI2VmRKTjBaZEpsS3dyOU9JRU1XbDRMY1lsMzBiNmkxMWh2Qmg3dy01RzNQSFYwcDFzeXdFeTNORWNVYnNjXzRVYTRwbXBjSzBzTjBXYk1JUExpbDhnNE5vSjFLSmFRdWcwdUsxekEzZzdlWW1hM1NGV2lrSl9zUlpZRUw5V3hJYXpaanRfTGVLeUxJbVp5M1NiVXF0LTRFb0tQaGwzSWVZcndjMVY5UWk5blE4QzFDZ3N1ZFlkdQ?oc=5"
+    },
+    {
+      "source": "techcrunch.com",
+      "title": "Apple\u2019s long\u2011awaited AI Siri overhaul is finally here",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFdfaDBGSmZHWkFvbEhCemVtbThJZFlLaHY0VFFPclZLRFRiNV91OVdYV3hBMkxROURxbjNfa1NKTXkzOG9QWmhEQ0FVLU1yUUxHRjMxR3dVMVpQdzY4SEF1TGxZeHExNWZENmh6Z1hXSHVLN3BuNnZIbWsxZFl2OFMxUXFIclhMN1V3bU5hSUI?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxlcDl0VnlkNWYzdUcwSTkyM0FBOFNUUGpkWjdRV0Zmcmp5cjJQa0VwX3lqamY2ZXRFQlBMSEt6ZkxVd2FMN2sxZHd2ZG1HeVkycTAwX0dHREJEMmFYU09RM2JzaUppQjhsMTNJU00xUk4yTkF3cGxEYjUtclc1M2NWWUQ4M1hpWGRNOQ?oc=5"
+    }
+  ],
+  "design_plan": "rng=42; hero_width=1120; aida=checked; bento_density=grid-auto-flow:dense; button_contrast=ink_on_paper; animations_guarded=true",
+  "generated_at": "2026-06-30T03:28:52.430695+00:00",
+  "headline": "Text message AI assistant that actually gets things done",
+  "site_brief": {
+    "audience": "people who want to text an AI assistant instead of opening another app",
+    "canonical_url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Text message AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "text message AI assistant",
+      "SMS AI assistant",
+      "personal AI assistant by text",
+      "AI agent texting workflow automation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "text-message-ai-assistant",
+    "title": "Text message AI assistant",
+    "use_case_intent": "show how Super turns SMS-style requests into real computer actions, follow-ups, reminders, and app workflows"
+  },
+  "summary": "This use\u2011case page explains how Super lets you text an AI assistant and have it carry out real computer actions \u2014 not just chat. Built for people who want SMS\u2011style convenience with durable workflows, Super turns text messages into browser and desktop actions, reuses a computer\u2011use cache for repeated tasks, and follows up with confirmations, reminders, and results."
+}
